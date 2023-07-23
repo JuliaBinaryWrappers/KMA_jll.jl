@@ -1,0 +1,127 @@
+[[KMA]]
+arch = "aarch64"
+git-tree-sha1 = "b47f260ad465cb88ce2ac8535c77db71522c113b"
+os = "macos"
+
+    [[KMA.download]]
+    sha256 = "c16035f1eae78974d67b9dcd12eb57444ecb67e078505e4a03218c725ea2a389"
+    url = "https://github.com/JuliaBinaryWrappers/KMA_jll.jl/releases/download/KMA-v1.3.21+0/KMA.v1.3.21.aarch64-apple-darwin.tar.gz"
+[[KMA]]
+arch = "aarch64"
+git-tree-sha1 = "44d5cdf08b02cbe178d019fa4d28cffcbe74b793"
+libc = "glibc"
+os = "linux"
+
+    [[KMA.download]]
+    sha256 = "e5b364e03b6b238c2b6a9f1baabfc83a2b62080334038fe67e40988d123019a8"
+    url = "https://github.com/JuliaBinaryWrappers/KMA_jll.jl/releases/download/KMA-v1.3.21+0/KMA.v1.3.21.aarch64-linux-gnu.tar.gz"
+[[KMA]]
+arch = "aarch64"
+git-tree-sha1 = "1817e0d0419287f22054e21bf465333c668203a9"
+libc = "musl"
+os = "linux"
+
+    [[KMA.download]]
+    sha256 = "8a6106c7df8f8c28f2181b2bf7ac79434aed89621b112b22247367dcc1c29a29"
+    url = "https://github.com/JuliaBinaryWrappers/KMA_jll.jl/releases/download/KMA-v1.3.21+0/KMA.v1.3.21.aarch64-linux-musl.tar.gz"
+[[KMA]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a35b6bb9578d1cc4c63213f61c0efc47a920fe00"
+libc = "glibc"
+os = "linux"
+
+    [[KMA.download]]
+    sha256 = "028e5fcd1d73ee6b1d9d1202d061d3e3a84d7697fc96cb1c6acfef6e8e1bd218"
+    url = "https://github.com/JuliaBinaryWrappers/KMA_jll.jl/releases/download/KMA-v1.3.21+0/KMA.v1.3.21.armv6l-linux-gnueabihf.tar.gz"
+[[KMA]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3878b6d019cba437acc12c278fd2e4d4230d932e"
+libc = "musl"
+os = "linux"
+
+    [[KMA.download]]
+    sha256 = "5173c61447a9ed8d5c37f5d5fa09ece7caba06708516e73f905f35589879c660"
+    url = "https://github.com/JuliaBinaryWrappers/KMA_jll.jl/releases/download/KMA-v1.3.21+0/KMA.v1.3.21.armv6l-linux-musleabihf.tar.gz"
+[[KMA]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9431e69f941dfb3ad5393bd7b07ba2ccf1767792"
+libc = "glibc"
+os = "linux"
+
+    [[KMA.download]]
+    sha256 = "98fe132adc06ba1ccdd11a7a59f60ccd80e73d5128e030da011026cb689007fc"
+    url = "https://github.com/JuliaBinaryWrappers/KMA_jll.jl/releases/download/KMA-v1.3.21+0/KMA.v1.3.21.armv7l-linux-gnueabihf.tar.gz"
+[[KMA]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6efc6695f70dd9c7e4bb1753a7d82deb90915569"
+libc = "musl"
+os = "linux"
+
+    [[KMA.download]]
+    sha256 = "c7429113427ca8f35a0969cd47c7a10dd246b74fc906f43ad6f93b8bafbf2d32"
+    url = "https://github.com/JuliaBinaryWrappers/KMA_jll.jl/releases/download/KMA-v1.3.21+0/KMA.v1.3.21.armv7l-linux-musleabihf.tar.gz"
+[[KMA]]
+arch = "i686"
+git-tree-sha1 = "7e43af07097bbb03b97c3c635f264569a49f4adc"
+libc = "glibc"
+os = "linux"
+
+    [[KMA.download]]
+    sha256 = "9fe7a3a1c426fe12788e8c1aea240a7b6902f2991d3e599f5fbec629c62a6a1b"
+    url = "https://github.com/JuliaBinaryWrappers/KMA_jll.jl/releases/download/KMA-v1.3.21+0/KMA.v1.3.21.i686-linux-gnu.tar.gz"
+[[KMA]]
+arch = "i686"
+git-tree-sha1 = "e19c45c094471b1184e1a512de4ac6601dbf0530"
+libc = "musl"
+os = "linux"
+
+    [[KMA.download]]
+    sha256 = "89bef110d55633a888b121a38d2a32831ddade6151091171ab12398fe7b5449e"
+    url = "https://github.com/JuliaBinaryWrappers/KMA_jll.jl/releases/download/KMA-v1.3.21+0/KMA.v1.3.21.i686-linux-musl.tar.gz"
+[[KMA]]
+arch = "powerpc64le"
+git-tree-sha1 = "c3050ec1ebd9715c48b041ec71678f486b9af83c"
+libc = "glibc"
+os = "linux"
+
+    [[KMA.download]]
+    sha256 = "9956bad81a9002e5702a2c0b0ae223c4c025daa43ae6156ec199fe0d6b768eeb"
+    url = "https://github.com/JuliaBinaryWrappers/KMA_jll.jl/releases/download/KMA-v1.3.21+0/KMA.v1.3.21.powerpc64le-linux-gnu.tar.gz"
+[[KMA]]
+arch = "x86_64"
+git-tree-sha1 = "6979b3c3c9ce681e8701f1ef572c9efdf7f78ffc"
+os = "macos"
+
+    [[KMA.download]]
+    sha256 = "ab03288bbd7a950beab66cb54e9a2a02e6da5d6ac9e60208f470a7546a39a420"
+    url = "https://github.com/JuliaBinaryWrappers/KMA_jll.jl/releases/download/KMA-v1.3.21+0/KMA.v1.3.21.x86_64-apple-darwin.tar.gz"
+[[KMA]]
+arch = "x86_64"
+git-tree-sha1 = "7439f2b7e89cb50b54bd23d72272ae52aadb275d"
+libc = "glibc"
+os = "linux"
+
+    [[KMA.download]]
+    sha256 = "4e1236c5d12283a246f99917edf18609e650971ca716a86bc04bda75ac428eb0"
+    url = "https://github.com/JuliaBinaryWrappers/KMA_jll.jl/releases/download/KMA-v1.3.21+0/KMA.v1.3.21.x86_64-linux-gnu.tar.gz"
+[[KMA]]
+arch = "x86_64"
+git-tree-sha1 = "7f0eabb0d5c32b853e7ca3c2446ba6e97837a64d"
+libc = "musl"
+os = "linux"
+
+    [[KMA.download]]
+    sha256 = "fdf8e16a1b9a3422309d841662e58c9a6fe8568abb769f5c4bb68de836f3d516"
+    url = "https://github.com/JuliaBinaryWrappers/KMA_jll.jl/releases/download/KMA-v1.3.21+0/KMA.v1.3.21.x86_64-linux-musl.tar.gz"
+[[KMA]]
+arch = "x86_64"
+git-tree-sha1 = "3b43269d16ecc9cc2a3a41d886eb185b0da2ec74"
+os = "freebsd"
+
+    [[KMA.download]]
+    sha256 = "9a5817a28a572548b7586cb0eb9740160f0a57aed654bb671384afc5a37fce57"
+    url = "https://github.com/JuliaBinaryWrappers/KMA_jll.jl/releases/download/KMA-v1.3.21+0/KMA.v1.3.21.x86_64-unknown-freebsd.tar.gz"
